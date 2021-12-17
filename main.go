@@ -4,7 +4,7 @@ Copyright © 2021 NAME HERE <EMAIL ADDRESS>
 */
 package main
 
-import "k6maker/cmd"
+import "github.com/dalarcon159/K6CLI/cmd"
 
 func main() {
 	cmd.Execute()
